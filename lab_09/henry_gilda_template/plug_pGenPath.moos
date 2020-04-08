@@ -1,0 +1,13 @@
+//-----------------------------
+	//pGenPath config block
+	
+	ProcessConfig = pGenPath
+	{
+	Appstick = 4
+	CommsTick = 4
+	
+	VNAME = $(VNAME)
+	START_POS = $(START_POS)
+	VISIT_RADIUS = 5
+	}
+	
